@@ -1,0 +1,5 @@
+/* Tailwind is used for styling (via CDN). This file can contain small overrides if needed. */
+
+/* Keep a simple reset for legacy elements */
+html,body,#root { height: 100%; }
+
